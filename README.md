@@ -20,4 +20,4 @@ Ash has a strong background in mathematics and statistics, and is proficient in 
 
 In his spare time, John enjoys learning new technologies, reading science fiction, and playing video games. He is also an avid photographer and loves to travel around the world.
 
-**Headshot:** <https://ocean-transport.github.io/_images/ryan.jpg>
+**Headshot:** <https://github.com/achraftounsi/achraftounsi/blob/main/1641061812369.png>
