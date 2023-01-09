@@ -19,3 +19,5 @@ Achraf Tounsi is a senior data scientist with a PhD in Interdisciplinary Data Sc
 Ash has a strong background in mathematics and statistics, and is proficient in a wide range of programming languages including Python, R, Java, and C++. He is also well-versed in data engineering and data visualization techniques.
 
 **Headshot:** <https://github.com/achraftounsi/achraftounsi/blob/main/1641061812369.png>
+
+**Curriculum Vitae:** <https://achraftounsi.github.io/cv.html>
